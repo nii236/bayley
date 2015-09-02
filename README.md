@@ -2,7 +2,7 @@
 ## Introduction
 This was a quick proof of concept showing how to extract data from the Bitcoin blockchain and then importing it into Google's Cayley DB.
 
-For more information and spinup instructions, see [The Frontier Group's blog](blog.thefrontiergroup.com.au).
+For more information and spinup instructions, see [The Frontier Group's blog](http://http://blog.thefrontiergroup.com.au/2015/05/blockchain-analytics-with-cayley-db/).
 
 ## Spinup instructions
 
